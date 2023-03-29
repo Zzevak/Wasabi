@@ -1,2 +1,2 @@
 # Wasabi
-123
+This file was created just like that
